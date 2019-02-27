@@ -5,10 +5,7 @@ a basic Julia tutorial
 
 # modules
 
-## least square minimization 
-
-## FBA
-
-## FVA 
-
-## solving ODE
+1. least square minimization 
+2. FBA
+3. FVA 
+4. solving ODE
