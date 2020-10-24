@@ -1,5 +1,5 @@
 a basic Julia tutorial 
-
+[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://zzp12.github.io/JuliaTutorial/stable)
 # Basics 
 
 
