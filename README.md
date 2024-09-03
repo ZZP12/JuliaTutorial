@@ -11,4 +11,4 @@ a basic Julia tutorial
 4. solving ODE
 5. [create a new package in Julia](https://github.com/ZZP12/JuliaTutorial/blob/master/CreateJuliaPkg.ipynb)
 
-$\sqrt{2}$
+$\sqrt{2+x+y}$
